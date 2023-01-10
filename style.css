@@ -1,0 +1,75 @@
+* {
+    margin: 2px;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: #555;
+  }
+
+  nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 10px;
+    height: 60px;
+  }
+  ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+  }
+  .logo{
+    width: 92px;
+    height: 30px;
+  }
+  form{
+    position: relative;
+  }
+
+  input{
+    width: 580px;
+    height: 40px;
+    padding-left: 30px;
+    padding-right: 150px;
+    font-size: 1.2rem;
+    border-radius: 45px;
+    border: 1px solid #d3d3d3;
+  }
+
+  input:hover{
+    box-shadow: 0 1px 3px 1px rgba(201, 201, 201, 0.8);
+  }
+
+input:focus{
+  outline: none;
+}
+.cam_search{
+  width: 24px;
+  height: 24px;
+}
+/* .clear_button  {
+  position: absolute;
+  padding-top: 10px;
+  left: 400px;
+} */
+.mic{
+  position: absolute;
+  padding-top: 10px;
+  left: 450px;
+}
+.cam_search{
+  position:absolute;
+  padding-top:3px;
+  bottom: 5px;
+  left: 495px;
+  width: 5vh;
+  height: 28px;
+}
+.search{
+  position: absolute;
+  padding-top: 10px;
+  left: 540px;
+}
+.profile_img{
+ border-radius: 50%;
+  
+}
