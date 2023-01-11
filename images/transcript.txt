@@ -1,0 +1,56 @@
+﻿ROBOT (1/11/2023, 8:40:56 AM): Hello AIJAY
+I am Jumia ROBOT, your virtual assistant. 
+I'm here to help. 
+ROBOT (1/11/2023, 8:40:57 AM): Please select by clicking: 
+ROBOT (1/11/2023, 8:40:59 AM): Button Selections:
+	I need help to place an Order
+	I want to track my Order
+	I want to return an item
+	I want to cancel my Order
+	I have another issue 
+AIJAY (1/11/2023, 8:41:06 AM): I have another issue 
+ROBOT (1/11/2023, 8:41:10 AM): Any other query? 
+ROBOT (1/11/2023, 8:41:12 AM): Button Selections:
+	Return to main menu
+	I want to chat with an agent 
+AIJAY (1/11/2023, 8:41:14 AM): I want to chat with an agent 
+ROBOT (1/11/2023, 8:41:16 AM): Should I try to connect you with a customer service agent? 
+ROBOT (1/11/2023, 8:41:17 AM): Button Selections:
+	Yes, would love to!
+	No,thanks 
+AIJAY (1/11/2023, 8:41:19 AM): Yes, would love to! 
+Daniel K (1/11/2023, 8:44:15 AM): Hi AIJAY,
+My name is Daniel. How can I help you today? 
+AIJAY (1/11/2023, 8:44:23 AM): Hi Daniel 
+Daniel K (1/11/2023, 8:44:27 AM): Good morning AIJAY. 
+AIJAY (1/11/2023, 8:44:37 AM): I made a withdrawalfrommy Jumia pay 
+AIJAY (1/11/2023, 8:44:41 AM): Since sunday 
+AIJAY (1/11/2023, 8:44:52 AM): I am yet to receive funs in my account 
+AIJAY (1/11/2023, 8:45:24 AM): This is what is given as transaction ID : GCZU YDU2 DU4R U684 
+Daniel K (1/11/2023, 8:46:08 AM): It usually takes 1 - 3 business days for the withdrawal to reflect in your bank account, however today is the 3rd business day. 
+Daniel K (1/11/2023, 8:46:33 AM): May I suggest you exercise patient till the end of business hours for the withdrawal to reflect in your bank account? 
+AIJAY (1/11/2023, 8:46:59 AM): I may not have the time to get back here 
+AIJAY (1/11/2023, 8:47:09 AM): I work with the bank in question 
+AIJAY (1/11/2023, 8:47:24 AM): What I need is a real transaction ID 
+Daniel K (1/11/2023, 8:47:35 AM): May I know the status of the withdrawal? 
+AIJAY (1/11/2023, 8:47:37 AM): So I can log the ticket on my end 
+Daniel K (1/11/2023, 8:47:51 AM): You may have to exercise patience, Aijay. 
+AIJAY (1/11/2023, 8:47:56 AM): Status completed 
+Daniel K (1/11/2023, 8:47:56 AM): The withdrawal will reflect. 
+Daniel K (1/11/2023, 8:48:02 AM): Kindly be patient. 
+AIJAY (1/11/2023, 8:48:12 AM): Can I get a real transaction ID? 
+AIJAY (1/11/2023, 8:48:59 AM): Successful transaction IDs do not come in alphabets 
+AIJAY (1/11/2023, 8:49:19 AM): So I ask again, Can I get a real transaction ID??? 
+Daniel K (1/11/2023, 8:49:31 AM): That is the order number of the withdrawal and not a transaction ID. 
+Daniel K (1/11/2023, 8:50:05 AM): Your withdrawal will reflect as today is the 3rd business day. 
+Daniel K (1/11/2023, 8:50:39 AM): If by the end of business hours it still does not reflect, kindly revert back to chat for further assistance and your issue will be forwarded to our finance team. 
+AIJAY (1/11/2023, 8:50:51 AM): Are you saying you do not have the ID? 
+AIJAY (1/11/2023, 8:51:01 AM): Forget aabout it reflecting or not 
+AIJAY (1/11/2023, 8:51:11 AM): I do not have time to come back here 
+Daniel K (1/11/2023, 8:51:26 AM): I will have to request for the ID from the team in charge. 
+Daniel K (1/11/2023, 8:51:45 AM): And it may take 24 - 48 business hours for the finance team to get back with the ID. 
+AIJAY (1/11/2023, 8:51:46 AM): Please do so 
+Daniel K (1/11/2023, 8:52:05 AM): More reason I am suggesting you to be patient. 
+AIJAY (1/11/2023, 8:52:09 AM): They can take a year if they chose to 
+AIJAY (1/11/2023, 8:52:23 AM): 6pm on he dot, I'll be here 
+AIJAY (1/11/2023, 8:52:28 AM): Have a good day 

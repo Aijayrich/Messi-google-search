@@ -6,7 +6,7 @@
     color: #555;
   }
 
-  nav{
+  .nav_1{
     display: flex;
     justify-content: space-between;
     padding: 50px 10px;
@@ -17,9 +17,13 @@
     list-style: none;
     align-items: center;
   }
+  .flex_basis{
+width: 80%; 
+margin-left: 50px;
+ }
   .logo{
     width: 92px;
-    height: 30px;
+    height: 30px;    
   }
   form{
     position: relative;
@@ -33,6 +37,7 @@
     font-size: 1.2rem;
     border-radius: 45px;
     border: 1px solid #d3d3d3;
+    /* flex-basis: 1000px; */
   }
 
   input:hover{
@@ -71,5 +76,51 @@ input:focus{
 }
 .profile_img{
  border-radius: 50%;
+}
+.nav_2{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20px;
+  align-items: center;
+  height: 10px;
+}
+.nav2_icons{
+  padding: 3px 173px 0px;
+  align-items: center;
+
+}
+#tools{
+  width: 40%;
+}
+#result_stats {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: Google Sans,arial,sans-serif;
+  padding: 15px 174px ;
+  color: #70757a;
+  line-height: 43px;
+}
+.section_1{
+  display: flex;
+  justify-content: space-between;
+}
+.overview{
+  display: flex; 
+   padding-left: 20px;
+   align-items: center;
+
+}
+.overview_img{
+  border-radius: 10px;
+  width: 4%
   
+}
+.overview_list{
+  /* padding: 11px 19px; */
+  font-family: Google Sans,arial,sans-serif;
+}
+.li_1 .li_2 .li_3 .li_4 {
+  margin-right: 100px;
+
 }
