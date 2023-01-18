@@ -84,10 +84,12 @@ input:focus{
   padding-right: 11px;
   align-items: center;
   height: 10px;
+  line-height: rem;
 }
+
 .nav2_icons{
   padding: 3px 173px 0px;
-  align-items: center;
+  /* align-items: center; */
   font-size: 12px;
 
 }
@@ -98,11 +100,11 @@ input:focus{
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-
   padding: 15px 174px 8px ;
   color: #70757a;
   line-height: 43px;
 }
+
 .section_1{
   display: flex;
   justify-content: space-between;
@@ -121,11 +123,10 @@ input:focus{
   overflow: hidden;
 padding-top: 30px; 
 padding-left: 0px;
- /* text-overflow: ellipsis;
-  white-space: nowrap; */
-  
-  
+ text-overflow: ellipsis;
+  white-space: nowrap; 
 }
+
 .overview{
   display: flex; 
    padding-left: 160px;
@@ -135,13 +136,13 @@ padding-left: 0px;
 .overview_img{
   border-radius: 10px;
   width: 4%
-  
 }
+
 .overview_list{
   /* padding: 11px 19px; */
   font-family: arial,sans-serif;
-  
 }
+
 .li_1, .li_2, .li_3, .li_4  {
   box-sizing: border-box;
   /* border: 0.02px solid black; */
@@ -151,28 +152,31 @@ padding-left: 0px;
   background-color: #E7E7EA;
   font-size: 14px;  
 }
+
 .images{
   border-top: 1px solid #E7E7EA;
   padding-left: 157px;
   margin-top: 13px;
   padding-top: 20px;
 }
+
 .img_1{
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
-
 }
+
 .img_4{
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
-
 }
+
 .top_stories{
   color: #202124;
     font-size: 22px;
     line-height: 24px;
     padding: 30px 160px 16px;
 }
+
 .below_stories{
 font-size: 18px;
 font-weight: 400;
@@ -180,11 +184,11 @@ color: #202124;
 padding: 0px 160px 16px;
 line-height: 5px;
 }
-.mbappe_nd_messi{
+
+.mbappe_nd_messi, .eurosport{
  display: flexbox;
-
-
 }
+
 .section_2{
   display: grid;
   padding-top: 0px;
@@ -204,37 +208,40 @@ line-height: 5px;
   padding-right: 0%;
 
 }
+
 .eurosport{
-  
-  box-sizing: border-box;
+    box-sizing: border-box;
  border-left: 1px solid #E7E7EA;
- margin-left: 37%;
+ /* margin-left: 37%;
 padding-right: 40%;
-padding-top: 0%;
-
-
+padding-top: 0%; */
+float: left;
+display: flex;
 }
+
 .messi5{
   display: flex;
   flex-direction: column; 
-
-  
-
 }
+
 .alignment{
   display: flex;
   flex-direction: row-reverse;
-  
-
 }
+
 .li_2{
  width: max-content
 }
 
 .thirdgrid {
-  margin-left: 61%;
+  border-left: 1px solid #E7E7EA;
+  margin-left: 65%;
   padding-top: 0%;
-  display: block;
-  
-   
+  display: block;   
+  line-height: 30px;
+}
+
+.mbappe_nd_messi, .eurosport {
+  display: flex;
+  float: left; 
 }
